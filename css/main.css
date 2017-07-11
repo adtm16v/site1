@@ -1,0 +1,47 @@
+html,body {
+    padding: 0;
+    margin: 0;
+}
+img {
+    width: 100%;
+    height: auto;
+    
+}
+@media(max-width: 500px) {
+.logo {
+    color:#ffffff;
+    text-transform: uppercase;
+    margin:7% auto;
+    width:147px;
+    
+}
+    .contact_us{
+        display: block;
+        color:#ffffff;
+        width: 88px;
+        font-size:16pt;
+        text-decoration: none;
+        margin: 0 auto;
+        box-sizing: border-box;
+        
+        }
+
+    .contact_us:hover{
+        border-bottom: 2px solid yellow;
+    }
+
+.green-line {
+    width: auto;
+    height: 20px;
+    background-color:#04e4a2;
+}
+
+header {
+    background-color: #e94643;
+}
+
+    .phone {
+     
+    }
+    
+}
